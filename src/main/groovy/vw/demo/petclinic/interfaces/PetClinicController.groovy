@@ -22,6 +22,6 @@ class PetClinicController {
     }
     @GetMapping("/developer")
     ResponseEntity getDeveloper(){
-        return ResponseEntity.ok("animato!!")
+        return ResponseEntity.ok("animato!!!!!")
     }
 }
